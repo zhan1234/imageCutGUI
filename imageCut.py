@@ -1,4 +1,4 @@
-__author__ = 'Administrator'
+__author__ = 'zhanxianbo'
 import sys
 sys.stderr = sys.stdout
 

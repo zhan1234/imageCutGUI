@@ -1,4 +1,4 @@
-__author__ = 'Administrator'
+__author__ = 'zhanxianbo'
 from PIL import Image
 import os
 
